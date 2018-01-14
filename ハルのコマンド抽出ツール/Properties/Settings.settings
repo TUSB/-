@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ハルのコマンド抽出ツール.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VersionIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CommandBlock" Type="System.String" Scope="User">
+      <Value Profile="(Default)">minecraft:command_block</Value>
+    </Setting>
+    <Setting Name="Sign" Type="System.String" Scope="User">
+      <Value Profile="(Default)">minecraft:sign</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
